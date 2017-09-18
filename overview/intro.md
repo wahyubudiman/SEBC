@@ -26,9 +26,9 @@
 * Michael Ernest (Senior Learning Architect) - mfernest
 * Manoj Shanmugasundaram (Solutions Architect) - manojsundaram
 * Please introduce yourselves:
-    * Name
-    * Region & Role
-    * Your experience with Hadoop to date
+    * Wahyu Budiman
+    * Indonesia , Technical Consultant
+    * 3 Years Experience on Hadoop
 
 ---
 <div style="page-break-after: always;"></div>
